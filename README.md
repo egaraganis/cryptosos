@@ -12,15 +12,15 @@ This classic game is played alternately by two players. There are 9 squares orga
 
 Fig 1(a)
 
-| O |   | S | <br/>
+| O | - | S | <br/>
 | O | O | S | <br/>
-|   |   | S | <br/>
+| - | - | S | <br/>
 
 Fig 1(b)
 
-| O |   | S | <br/>
+| O | - | S | <br/>
 | O | O | S | <br/>
-| S |   | S | <br/>
+| S | - | S | <br/>
 
 Fig 1(c)
 
